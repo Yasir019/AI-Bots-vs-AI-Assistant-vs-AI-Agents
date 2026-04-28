@@ -1,5 +1,5 @@
 # AI Bot vs AI Assistant vs AI Agent
-> A comprehensive guide to understanding the three tiers of AI systems — what they are, how they work, when to use them, and how to build them.
+> A comprehensive guide to understanding the three tiers of AI systems what they are, how they work, when to use them, and how to build them.
 
 ---
 
